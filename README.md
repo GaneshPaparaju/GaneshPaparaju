@@ -19,11 +19,11 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [IMDb BI Pipeline](https://github.com/GaneshPaparaju/imdb-bi-pipeline) | Ingested 200M+ records, star schema + Power BI | ADF, Snowflake, Power BI |
-| [NYPD Crime Analysis](https://github.com/GaneshPaparaju/nypd-crime-dashboard) | Geospatial trends + performance optimization | ER Studio, Power BI |
+| [IMDb BI Pipeline](https://github.com/GaneshPaparaju/IMDB_GROUP_PROJ.git) | Ingested 200M+ records, star schema + Power BI | ADF, Snowflake, Power BI |
+| [NYPD Crime Analysis](https://github.com/GaneshPaparaju/DADABI_DEMO.git) | Geospatial trends + performance optimization | ER Studio, Power BI |
 | [Fast Commerce SQL DMDD](https://github.com/GaneshPaparaju/fast-commerce-sql-dmdd) | Full relational DB design + grants + views | Oracle SQL |
-| [Loan Prediction ML](https://github.com/GaneshPaparaju/loan-predictor) | Preprocessing, modeling, and evaluation | Python, Sklearn |
-| [Amazon NLP Analysis](https://github.com/GaneshPaparaju/amazon-nlp-analysis) | Sentiment analysis + word clouds | Python, NLP |
+| [Amazon Product Review Analysis](https://github.com/GaneshPaparaju/Data_Science_Projects.git) | NLP sentiment analysis on melatonin reviews | Python, TextBlob, Power BI |
+| [Pedestrian Detection](https://github.com/GaneshPaparaju/Data_Science_Projects.git) | Detected pedestrian violations using OpenCV | Python, OpenCV, Scikit-learn |
 
 ---
 
