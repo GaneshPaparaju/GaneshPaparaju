@@ -26,7 +26,7 @@
 | [IMDb BI Pipeline](https://github.com/GaneshPaparaju/IMDB_GROUP_PROJ.git) | Ingested 200M+ records into Snowflake, built star schema, and designed Power BI dashboards | ADF, Snowflake, Power BI |
 | [NYPD Crime Analysis](https://github.com/GaneshPaparaju/DADABI_DEMO.git) | Analyzed geospatial crime trends and optimized reporting performance | ER Studio, Power BI |
 | [Fast Commerce SQL DMDD](https://github.com/GaneshPaparaju/fast-commerce-sql-dmdd) | Designed relational DB with user roles, DDL/DML scripts, and analytical views | Oracle SQL |
-| [Amazon Product Review Analysis](https://github.com/GaneshPaparaju/Data_Science_Projects) | Performed NLP sentiment analysis on melatonin reviews | Python, TextBlob |
+| [Amazon Product Review Analysis](https://github.com/GaneshPaparaju/Data_Science_Projects) | Performed NLP sentiment analysis on melatonin reviews | Python, TextBlob, WordCloud, Graphs |
 | [Pedestrian Detection](https://github.com/GaneshPaparaju/Data_Science_Projects) | Built real-time pedestrian detection using OpenCV and HOG + ML models | Python, OpenCV, Scikit-learn |
 
 ---
