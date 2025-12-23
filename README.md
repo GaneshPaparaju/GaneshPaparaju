@@ -1,73 +1,107 @@
-<h1 align="center">Hi, I'm Ganesh Paparaju! 👋</h1>
+<h1 align="center">Hi, I'm Ganesh Paparaju 👋</h1>
 
 <p align="center">
-🎓 Graduate Student in <strong>Data Architecture and Management</strong> at <strong>Northeastern University</strong>  
-💡 Data Engineer in the making | ETL/ELT | Snowflake | Azure | Power BI | SQL | Python  
-🌐 Passionate about turning raw data into insightful visualizations and robust analytics pipelines  
+🎓 M.S. in <strong>Data Architecture & Management</strong> @ <strong>Northeastern University</strong><br>
+🤖 Data Engineering • Applied AI • LLM Systems • Analytics Platforms<br>
+💡 Interested in building scalable, data-driven and AI-powered systems
 </p>
 
 ---
 
 ## 🔎 About Me
 
-- 🔭 I'm currently pursuing my Master’s at **Northeastern University, Boston**
-- 📊 I’ve designed and delivered data pipelines and dashboards on datasets with over **200M records**
-- 💡 Experienced in **dimensional modeling**, **star schemas**, and **real-time analytics**
-- 🛠 Built ML inference and preprocessing scripts for classification problems using Python
-- 🔍 Interested in Data Engineering, ML workflows, and Business Intelligence
-- 🤝 Open to internship and full-time roles in **Data Engineering** and **Analytics**
+I’m a graduate student at **Northeastern University (Boston)** with hands-on experience building **end-to-end data and AI systems** — from ingestion and transformation to analytics, visualization, and LLM-powered insight generation.
+
+My interests broadly span:
+- **Data engineering & analytics platforms**
+- **Applied AI and LLM-based systems**
+- **Multi-agent architectures**
+- **Clean, scalable system design**
+
+I enjoy working on problems that combine **engineering depth** with **practical impact**, across different domains.
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [IMDb BI Pipeline](https://github.com/GaneshPaparaju/IMDB_GROUP_PROJ.git) | Ingested 200M+ records into Snowflake, built star schema, and designed Power BI dashboards | ADF, Snowflake, Power BI |
-| [NYPD Crime Analysis](https://github.com/GaneshPaparaju/DADABI_DEMO.git) | Analyzed geospatial crime trends and optimized reporting performance | ER Studio, Power BI |
-| [Fast Commerce SQL DMDD](https://github.com/GaneshPaparaju/fast-commerce-sql-dmdd) | Designed relational DB with user roles, DDL/DML scripts, and analytical views | Oracle SQL |
-| [Amazon Product Review Analysis](https://github.com/GaneshPaparaju/Data_Science_Projects) | Performed NLP sentiment analysis on melatonin reviews | Python, TextBlob, WordCloud, Graphs |
-| [Pedestrian Detection](https://github.com/GaneshPaparaju/Data_Science_Projects) | Built real-time pedestrian detection using OpenCV and HOG + ML models | Python, OpenCV, Scikit-learn |
+### 🍽️ MaRGen-Inspired Multi-Agent Market Analysis
+**Applied AI | LLM Agents | Streamlit**
 
----
+- Designed a **multi-agent pipeline** (Retriever → Researcher → Writer → Reviewer)
+- Agents collaborate to analyze data, generate insights, and iteratively refine reports
+- Built an interactive **Streamlit application** to surface agent reasoning step-by-step
+- Inspired by the **MaRGen (2025)** research paper on agent-based market research
 
-## 🧠 Skills
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)  
- 
-**Tools & Frameworks:**  
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-E36209?style=for-the-badge&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-**Machine Learning & Analytics:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Other Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372261?style=for-the-badge)
+🔗 Repo:  
+https://github.com/GaneshPaparaju/MaRGen-MultiAgent-Restaurant-Analysis
 
 ---
 
-## 📚 Currently Learning
-- Deployment of ML inference systems
-- Stream data pipelines using Apache Spark
-- Optimizing Snowflake pipelines for performance
+### 🚓 NYPD Arrest Data Engineering & Analytics Pipeline
+**Data Engineering | Analytics | BI**
+
+- Built an end-to-end pipeline processing **260K+ records**
+- Designed **dimensional models (star schema)** for analytical workloads
+- Orchestrated ingestion using **Azure Data Factory**
+- Created **Power BI dashboards** for trend and demographic analysis
+
+🔗 Repo:  
+https://github.com/GaneshPaparaju/DADABI_DEMO
 
 ---
 
-## 🤝 Connect With Me
+### 🎬 IMDb Analytics & Data Modeling Project
+**Data Modeling | Analytics Engineering**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganeshpaparaju)  
-[![Email](https://img.shields.io/badge/Email-paparaju.s@northeastern.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paparaju.s@northeastern.edu)
+- Profiled and cleaned large IMDb datasets using **Alteryx**
+- Designed dimensional models using **ER/Studio**
+- Managed ingestion pipelines via **ADF (JSON-based IaC)**
+- Built validation dashboards for ratings, genres, and regional trends
+
+🔗 Repo:  
+https://github.com/GaneshPaparaju/IMDB_GROUP_PROJ
 
 ---
 
-⭐ Feel free to explore my repositories and reach out if you'd like to collaborate!
+## 🧠 Skills & Tools
+
+**Languages**
+- Python, SQL
+
+**Data Engineering**
+- Azure Data Factory
+- Snowflake
+- Alteryx
+- ER/Studio
+- Dimensional Modeling (Star / Bridge Tables)
+
+**Applied AI & Analytics**
+- LLM-based agent systems
+- Streamlit
+- Pandas, NumPy
+- Scikit-learn
+- Power BI, Tableau
+
+**Other**
+- Git, DBeaver
+
+---
+
+## 🌱 Current Interests
+
+- LLM-powered systems and AI agents
+- Data platforms and analytics engineering
+- Scalable pipelines and orchestration
+- Bridging data engineering with applied AI use cases
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ganeshpaparaju  
+- 💻 GitHub: https://github.com/GaneshPaparaju  
+- 📧 Email: paparaju.s@northeastern.edu  
+
+---
+
+⭐ Feel free to explore my repositories — I’m always happy to discuss projects, design choices, and future ideas.
